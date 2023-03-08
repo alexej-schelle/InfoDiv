@@ -1,2 +1,2 @@
-# DIVSCALING
-Python routine for determination of divergence from data scaling transformations
+# DATADIV
+Python software for determination of divergence from data transformations
