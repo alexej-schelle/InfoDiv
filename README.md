@@ -1,2 +1,2 @@
-# DATADIV
+# DataDiv
 Python software for determination of divergence from data transformations
