@@ -1,2 +1,3 @@
 # DataDiv
-Python software for determination of divergence from data transformations
+
+Python software for determination of information divergence from data transformations.
