@@ -1,4 +1,4 @@
 # InfoDiv
 
-Python software for determination of information divergence from data transformations. 
+Python software for determination of information and entropy divergence from data transformations. 
 Work in progess...
