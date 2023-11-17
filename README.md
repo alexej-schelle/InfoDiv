@@ -1,4 +1,3 @@
 # InfoDiv
 
-Python software for determination of information and entropy divergence from data transformations. 
-Work in progess...
+Within this project, a Python routine to estimate the randomness and controllability of the Corona outbreak in terms of a numerical scaling theory which quantifies the deviations of the measured distribution to an exemplary Gaussian distribution shall be developed. To this aim, a scaling method shall be mumerically implemented, which scales the Corona outbreak data with a standardized or more sophisticated numerical method, in order to quantify the deviations of the scaled distribution to the real time Corona outbreak data (see e. g. Statista). In this context, also the origin of the modulations in the number of Corona cases as a function of time, shall be investigated and explained.   
